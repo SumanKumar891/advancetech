@@ -262,7 +262,8 @@ class _HomeScreenState extends State<HomeScreen> {
               return Container(
                 decoration: BoxDecoration(
                     image: DecorationImage(
-                        image: AssetImage("images/homescreen2.png"),
+                        image: AssetImage(
+                            "https://github.com/SumanKumar891/advancetech/blob/main/assets/images/homescreen2.png"),
                         fit: BoxFit.contain)),
                 child: ListView(
                   children: [

@@ -191,7 +191,9 @@ class _MyHomePageState extends State<MyHomePage> {
             child: Container(
               decoration: BoxDecoration(
                 image: DecorationImage(
-                  image: AssetImage("images/team-pana.png"),
+                  // image: AssetImage("images/team-pana.png"),
+                  image: AssetImage(
+                      "https://github.com/SumanKumar891/advancetech/blob/main/assets/images/Team-pana.png"),
                   fit: BoxFit.contain,
                 ),
               ),
