@@ -192,8 +192,7 @@ class _MyHomePageState extends State<MyHomePage> {
               decoration: BoxDecoration(
                 image: DecorationImage(
                   // image: AssetImage("images/team-pana.png"),
-                  image: AssetImage(
-                      "build\flutter_assets\assets\images\Team-pana.png"),
+                  image: AssetImage("assets/images/Team-pana.png"),
                   fit: BoxFit.contain,
                 ),
               ),

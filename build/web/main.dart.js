@@ -40692,7 +40692,7 @@ $0(){},
 $S:0}
 A.agE.prototype={
 $2(a,b){var s,r,q,p,o,n,m,l=null,k=b.b
-if(k!=null){if(J.e(k,"200")){k=A.as7(B.hb,new A.np("build\flutter_assetsassetsimageshomescreen2.png",l,l))
+if(k!=null){if(J.e(k,"200")){k=A.as7(B.hb,new A.np("assets/images/homescreen2.png",l,l))
 s=t.p
 r=A.a([B.Ky,new A.c5(B.nL,A.da(B.w,new A.c5(B.BY,A.aul(B.El,B.HI),l),B.o,l,l,B.yI,l,50,l,l,l,l,l),l)],s)
 for(q=t.nk,p=0;o=$.arc(),p<o.length;p=n){n=p+1
@@ -40859,7 +40859,7 @@ A.Qs.prototype={
 J(a){var s=null,r="AdvanceTech",q=t.p,p=A.ij(A.a([A.dS(A.ca(B.CL,s,40),s,50),A.dS(s,s,15),A.ke(A.bC(r,s,B.an,s,A.e6(s,s,new A.G(3321888768),s,s,s,s,s,s,s,s,25,B.eH,s,s,s,s,!0,s,s,s,s,s,s,s,s),s,s),1)],q),B.aj,B.T,B.aa),o=t.w
 p=A.Wa(a.M(o).f.a.a>600?A.a([A.d4(s,A.ca(B.eL,s,25),s,new A.ai_(a),s,s),A.d4(s,A.ca(B.cy,s,25),s,new A.ai0(),s,s),A.d4(s,A.ca(B.cx,s,25),s,new A.ai1(),s,s),A.d4(s,A.ca(B.cz,s,25),s,new A.ai2(),s,s)],q):A.a([A.d4(s,A.ca(B.eK,s,s),s,new A.ai3(a),s,s)],q),s,p)
 o=a.M(o).f.a.a>600?s:A.aos(A.a3X(A.a([A.i7(A.ca(B.eL,s,25),new A.ai4(a),A.bC("Dashboard",s,s,s,s,s,s)),A.i7(A.ca(B.cy,s,25),new A.ai5(),A.bC("Countries",s,s,s,s,s,s)),A.i7(A.ca(B.cx,s,25),new A.ai6(),A.bC("Location",s,s,s,s,s,s)),A.i7(A.ca(B.cz,s,25),new A.ai7(),A.bC("Settings",s,s,s,s,s,s))],q)))
-return A.a8f(p,B.i,A.ij(A.a([A.dS(s,s,20),A.iO(A.a([A.bC("Welcome to",s,s,s,A.e6(s,s,B.l,s,s,s,s,s,s,s,s,40,s,s,B.bj,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.bC(r,s,s,s,A.e6(s,s,B.l,s,s,s,s,s,s,s,s,60,B.eH,s,B.bj,s,s,!0,s,s,s,s,s,s,s,s),s,s)],q),B.db,B.iA,B.aa),A.ke(A.da(s,s,B.o,s,s,new A.cL(s,A.as7(B.hb,new A.np("build\flutter_assetsassetsimagesTeam-pana.png",s,s)),s,s,s,s,B.a8),s,s,s,s,s,s,s),1)],q),B.aj,B.T,B.aa),o)}}
+return A.a8f(p,B.i,A.ij(A.a([A.dS(s,s,20),A.iO(A.a([A.bC("Welcome to",s,s,s,A.e6(s,s,B.l,s,s,s,s,s,s,s,s,40,s,s,B.bj,s,s,!0,s,s,s,s,s,s,s,s),s,s),A.bC(r,s,s,s,A.e6(s,s,B.l,s,s,s,s,s,s,s,s,60,B.eH,s,B.bj,s,s,!0,s,s,s,s,s,s,s,s),s,s)],q),B.db,B.iA,B.aa),A.ke(A.da(s,s,B.o,s,s,new A.cL(s,A.as7(B.hb,new A.np("assets/images/Team-pana.png",s,s)),s,s,s,s,B.a8),s,s,s,s,s,s,s),1)],q),B.aj,B.T,B.aa),o)}}
 A.ai_.prototype={
 $0(){var s=A.m9(new A.ahZ(),null,t.z)
 A.fn(this.a,!1).fL(s)},
