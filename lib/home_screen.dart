@@ -262,7 +262,8 @@ class _HomeScreenState extends State<HomeScreen> {
               return Container(
                 decoration: BoxDecoration(
                     image: DecorationImage(
-                        image: AssetImage("images/homescreen2.png"),
+                        image: AssetImage(
+                            "build\flutter_assets\assets\images\homescreen2.png"),
                         fit: BoxFit.contain)),
                 child: ListView(
                   children: [
